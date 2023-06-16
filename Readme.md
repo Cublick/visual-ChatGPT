@@ -1,6 +1,6 @@
 # 1. 해당 프로그램을 구동시키는 필요한 라이브러리 설치<br/>
-~~~
    경로를 visual_chatgpt/visualchatgpt폴더로 이동 후에<br/>
+~~~
    pip install -r requirements.txt <br/>
    pip install gensim<br/>
    pip install flask<br/>
