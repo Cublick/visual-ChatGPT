@@ -16,3 +16,8 @@
    python / python3 visual_chatgpt.py<br/>
    pycharm / vscode 등을 사용하여 visual_chatgpt.py 실행
 ~~~
+
+# Linux Server 경로
+~~~
+   cd/home/user/visual_chatgpt/lastest_visual_chatgpt/pythonProject4/visual-chatgpt
+~~~
